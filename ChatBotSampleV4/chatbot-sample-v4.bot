@@ -1,0 +1,17 @@
+{
+    "name": "chatbot-sample-v4",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "f4a89b70-f89b-11e8-8836-0702952de479",
+            "name": "development"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null
+}
